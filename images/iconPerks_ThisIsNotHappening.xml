@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>iconPerks_ThisIsNotHappening.png</filename>
+	<path>C:\Users\alex\Documents\coding_workspace\dbd_match_analysis\images\iconPerks_ThisIsNotHappening.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>256</width>
+		<height>256</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>this_is_not_happening</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>49</xmin>
+			<ymin>41</ymin>
+			<xmax>206</xmax>
+			<ymax>194</ymax>
+		</bndbox>
+	</object>
+</annotation>

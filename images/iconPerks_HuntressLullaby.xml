@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>iconPerks_HuntressLullaby.png</filename>
+	<path>C:\Users\alex\Documents\coding_workspace\dbd_match_analysis\images\iconPerks_HuntressLullaby.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>256</width>
+		<height>256</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>hex:huntress_lullaby</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>42</xmin>
+			<ymin>32</ymin>
+			<xmax>210</xmax>
+			<ymax>203</ymax>
+		</bndbox>
+	</object>
+</annotation>

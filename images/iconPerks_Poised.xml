@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>iconPerks_Poised.png</filename>
+	<path>C:\Users\alex\Documents\coding_workspace\dbd_match_analysis\images\iconPerks_Poised.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>256</width>
+		<height>256</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>poised</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>30</xmin>
+			<ymin>24</ymin>
+			<xmax>215</xmax>
+			<ymax>211</ymax>
+		</bndbox>
+	</object>
+</annotation>

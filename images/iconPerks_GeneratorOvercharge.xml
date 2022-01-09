@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>iconPerks_GeneratorOvercharge.png</filename>
+	<path>C:\Users\alex\Documents\coding_workspace\dbd_match_analysis\images\iconPerks_GeneratorOvercharge.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>256</width>
+		<height>256</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>overcharge</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>56</xmin>
+			<ymin>51</ymin>
+			<xmax>208</xmax>
+			<ymax>217</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>iconPerks_UpTheAnte.png</filename>
+	<path>C:\Users\alex\Documents\coding_workspace\dbd_match_analysis\images\iconPerks_UpTheAnte.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>256</width>
+		<height>256</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>up_the_ante</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>70</xmin>
+			<ymin>29</ymin>
+			<xmax>195</xmax>
+			<ymax>216</ymax>
+		</bndbox>
+	</object>
+</annotation>
