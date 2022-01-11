@@ -228,7 +228,7 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>spies_from_the_shadows</name>
+		<name>spies_from_the_shadow</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>

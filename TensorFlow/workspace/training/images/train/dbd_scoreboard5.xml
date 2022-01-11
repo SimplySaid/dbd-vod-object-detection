@@ -228,7 +228,7 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>dead_mans_switch</name>
+		<name>dead_man_switch</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
