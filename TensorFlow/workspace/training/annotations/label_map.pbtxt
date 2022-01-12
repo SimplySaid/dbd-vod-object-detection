@@ -1,955 +1,954 @@
 item {
     id: 1
-    display_name: "a_nurses_calling"
+    name: "a_nurses_calling"
 }
 
 item {
     id: 2
-    display_name: "ace_in_the_hole"
+    name: "ace_in_the_hole"
 }
 
 item {
     id: 3
-    display_name: "adrenaline"
+    name: "adrenaline"
 }
 
 item {
     id: 4
-    display_name: "aftercare"
+    name: "aftercare"
 }
 
 item {
     id: 5
-    display_name: "agitation"
+    name: "agitation"
 }
 
 item {
     id: 6
-    display_name: "alert"
+    name: "alert"
 }
 
 item {
     id: 7
-    display_name: "any_means_necessary"
+    name: "any_means_necessary"
 }
 
 item {
     id: 8
-    display_name: "appraisal"
+    name: "appraisal"
 }
 
 item {
     id: 9
-    display_name: "autodidact"
+    name: "autodidact"
 }
 
 item {
     id: 10
-    display_name: "balanced_landing"
+    name: "balanced_landing"
 }
 
 item {
     id: 11
-    display_name: "bamboozle"
+    name: "bamboozle"
 }
 
 item {
     id: 12
-    display_name: "bbq_and_chilli"
+    name: "bbq_and_chilli"
 }
 
 item {
     id: 13
-    display_name: "beast_of_prey"
+    name: "beast_of_prey"
 }
 
 item {
     id: 14
-    display_name: "bite_the_bullet"
+    name: "bite_the_bullet"
 }
 
 item {
     id: 15
-    display_name: "bitter_murmur"
+    name: "bitter_murmur"
 }
 
 item {
     id: 16
-    display_name: "blank_perk"
+    name: "blank_perk"
 }
 
 item {
     id: 17
-    display_name: "blast_mine"
+    name: "blast_mine"
 }
 
 item {
     id: 18
-    display_name: "blood_echo"
+    name: "blood_echo"
 }
 
 item {
     id: 19
-    display_name: "blood_pact"
+    name: "blood_pact"
 }
 
 item {
     id: 20
-    display_name: "blood_warden"
+    name: "blood_warden"
 }
 
 item {
     id: 21
-    display_name: "bloodhound"
+    name: "bloodhound"
 }
 
 item {
     id: 22
-    display_name: "boil_over"
+    name: "boil_over"
 }
 
 item {
     id: 23
-    display_name: "bond"
+    name: "bond"
 }
 
 item {
     id: 24
-    display_name: "boon:exponential"
+    name: "boon:exponential"
 }
 
 item {
     id: 25
-    display_name: "boon:shadow_step"
+    name: "boon:shadow_step"
 }
 
 item {
     id: 26
-    display_name: "borrowed_time"
+    name: "borrowed_time"
 }
 
 item {
     id: 27
-    display_name: "botany_knowledge"
+    name: "botany_knowledge"
 }
 
 item {
     id: 28
-    display_name: "breakdown"
+    name: "breakdown"
 }
 
 item {
     id: 29
-    display_name: "breakout"
+    name: "breakout"
 }
 
 item {
     id: 30
-    display_name: "brutal_strength"
+    name: "brutal_strength"
 }
 
 item {
     id: 31
-    display_name: "buckle_up"
+    name: "buckle_up"
 }
 
 item {
     id: 32
-    display_name: "built_to_last"
+    name: "built_to_last"
 }
 
 item {
     id: 33
-    display_name: "calm_spirit"
+    name: "calm_spirit"
 }
 
 item {
     id: 34
-    display_name: "circle_of_healing"
+    name: "circle_of_healing"
 }
 
 item {
     id: 35
-    display_name: "clairvoyance"
+    name: "clairvoyance"
 }
 
 item {
     id: 36
-    display_name: "claustrophobia"
+    name: "claustrophobia"
 }
 
 item {
     id: 37
-    display_name: "corrective_action"
+    name: "corrective_action"
 }
 
 item {
     id: 38
-    display_name: "corrupt_intervention"
+    name: "corrupt_intervention"
 }
 
 item {
     id: 39
-    display_name: "coulrophobia"
+    name: "coulrophobia"
 }
 
 item {
     id: 40
-    display_name: "counterforce"
+    name: "counterforce"
 }
 
 item {
     id: 41
-    display_name: "coup_de_grace"
+    name: "coup_de_grace"
 }
 
 item {
     id: 42
-    display_name: "dance_with_me"
+    name: "dance_with_me"
 }
 
 item {
     id: 43
-    display_name: "dark_devotion"
+    name: "dark_devotion"
 }
 
 item {
     id: 44
-    display_name: "dark_sense"
+    name: "dark_sense"
 }
 
 item {
     id: 45
-    display_name: "dead_hard"
+    name: "dead_hard"
 }
 
 item {
     id: 46
-    display_name: "dead_man_switch"
+    name: "dead_man_switch"
 }
 
 item {
     id: 47
-    display_name: "deathbound"
+    name: "deathbound"
 }
 
 item {
     id: 48
-    display_name: "deception"
+    name: "deception"
 }
 
 item {
     id: 49
-    display_name: "decisive_strike"
+    name: "decisive_strike"
 }
 
 item {
     id: 50
-    display_name: "deerstalker"
+    name: "deerstalker"
 }
 
 item {
     id: 51
-    display_name: "deja_vu"
+    name: "deja_vu"
 }
 
 item {
     id: 52
-    display_name: "deliverance"
+    name: "deliverance"
 }
 
 item {
     id: 53
-    display_name: "desperate_measures"
+    name: "desperate_measures"
 }
 
 item {
     id: 54
-    display_name: "detectives_hunch"
+    name: "detectives_hunch"
 }
 
 item {
     id: 55
-    display_name: "discordance"
+    name: "discordance"
 }
 
 item {
     id: 56
-    display_name: "distortion"
+    name: "distortion"
 }
 
 item {
     id: 57
-    display_name: "distressing"
+    name: "distressing"
 }
 
 item {
     id: 58
-    display_name: "diversion"
+    name: "diversion"
 }
 
 item {
     id: 59
-    display_name: "dragons_grip"
+    name: "dragons_grip"
 }
 
 item {
     id: 60
-    display_name: "dying_light"
+    name: "dying_light"
 }
 
 item {
     id: 61
-    display_name: "empathy"
+    name: "empathy"
 }
 
 item {
     id: 62
-    display_name: "enduring"
+    name: "enduring"
 }
 
 item {
     id: 63
-    display_name: "eruption"
+    name: "eruption"
 }
 
 item {
     id: 64
-    display_name: "fast_track"
+    name: "fast_track"
 }
 
 item {
     id: 65
-    display_name: "fearmonger"
+    name: "fearmonger"
 }
 
 item {
     id: 66
-    display_name: "fire_up"
+    name: "fire_up"
 }
 
 item {
     id: 67
-    display_name: "flashbang"
+    name: "flashbang"
 }
 
 item {
     id: 68
-    display_name: "flip_flop"
+    name: "flip_flop"
 }
 
 item {
     id: 69
-    display_name: "for_the_people"
+    name: "for_the_people"
 }
 
 item {
     id: 70
-    display_name: "forced_penance"
+    name: "forced_penance"
 }
 
 item {
     id: 71
-    display_name: "franklins_demise"
+    name: "franklins_demise"
 }
 
 item {
     id: 72
-    display_name: "furtive_chase"
+    name: "furtive_chase"
 }
 
 item {
     id: 73
-    display_name: "gearhead"
+    name: "gearhead"
 }
 
 item {
     id: 74
-    display_name: "grim_embrace"
+    name: "grim_embrace"
 }
 
 item {
     id: 75
-    display_name: "guardian"
+    name: "guardian"
 }
 
 item {
     id: 76
-    display_name: "hangmans_trick"
+    name: "hangmans_trick"
 }
 
 item {
     id: 77
-    display_name: "head_on"
+    name: "head_on"
 }
 
 item {
     id: 78
-    display_name: "hex:blood_favor"
+    name: "hex:blood_favor"
 }
 
 item {
     id: 79
-    display_name: "hex:crowd_control"
+    name: "hex:crowd_control"
 }
 
 item {
     id: 80
-    display_name: "hex:devour_hope"
+    name: "hex:devour_hope"
 }
 
 item {
     id: 81
-    display_name: "hex:haunted_grounds"
+    name: "hex:haunted_grounds"
 }
 
 item {
     id: 82
-    display_name: "hex:huntress_lullaby"
+    name: "hex:huntress_lullaby"
 }
 
 item {
     id: 83
-    display_name: "hex:pentimento"
+    name: "hex:pentimento"
 }
 
 item {
     id: 84
-    display_name: "hex:retribution"
+    name: "hex:retribution"
 }
 
 item {
     id: 85
-    display_name: "hex:ruin"
+    name: "hex:ruin"
 }
 
 item {
     id: 86
-    display_name: "hex:third_seal"
+    name: "hex:third_seal"
 }
 
 item {
     id: 87
-    display_name: "hex:thrill_of_the_hunt"
+    name: "hex:thrill_of_the_hunt"
 }
 
 item {
     id: 88
-    display_name: "hex:undying"
+    name: "hex:undying"
 }
 
 item {
     id: 89
-    display_name: "hoarder"
+    name: "hoarder"
 }
 
 item {
     id: 90
-    display_name: "hope"
+    name: "hope"
 }
 
 item {
     id: 91
-    display_name: "hysteria"
+    name: "hysteria"
 }
 
 item {
     id: 92
-    display_name: "im_all_ears"
+    name: "im_all_ears"
 }
 
 item {
     id: 93
-    display_name: "infectious_fright"
+    name: "infectious_fright"
 }
 
 item {
     id: 94
-    display_name: "inner_healing"
+    name: "inner_healing"
 }
 
 item {
     id: 95
-    display_name: "insidious"
+    name: "insidious"
 }
 
 item {
     id: 96
-    display_name: "iron_grasp"
+    name: "iron_grasp"
 }
 
 item {
     id: 97
-    display_name: "iron_maiden"
+    name: "iron_maiden"
 }
 
 item {
     id: 98
-    display_name: "iron_will"
+    name: "iron_will"
 }
 
 item {
     id: 99
-    display_name: "jolt"
+    name: "jolt"
 }
 
 item {
     id: 100
-    display_name: "kindred"
+    name: "kindred"
 }
 
 item {
     id: 101
-    display_name: "kinship"
+    name: "kinship"
 }
 
 item {
     id: 102
-    display_name: "knockout"
+    name: "knockout"
 }
 
 item {
     id: 103
-    display_name: "leader"
+    name: "leader"
 }
 
 item {
     id: 104
-    display_name: "left_behind"
+    name: "left_behind"
 }
 
 item {
     id: 105
-    display_name: "lethal_pursuer"
+    name: "lethal_pursuer"
 }
 
 item {
     id: 106
-    display_name: "lightborn"
+    name: "lightborn"
 }
 
 item {
     id: 107
-    display_name: "lightweight"
+    name: "lightweight"
 }
 
 item {
     id: 108
-    display_name: "lithe"
+    name: "lithe"
 }
 
 item {
     id: 109
-    display_name: "lucky_break"
+    name: "lucky_break"
 }
 
 item {
     id: 110
-    display_name: "mad_grit"
+    name: "mad_grit"
 }
 
 item {
     id: 111
-    display_name: "make_your_choice"
+    name: "make_your_choice"
 }
 
 item {
     id: 112
-    display_name: "mettle_of_man"
+    name: "mettle_of_man"
 }
 
 item {
     id: 113
-    display_name: "monitor_and_abuse"
+    name: "monitor_and_abuse"
 }
 
 item {
     id: 114
-    display_name: "monstrous_shrine"
+    name: "monstrous_shrine"
 }
 
 item {
     id: 115
-    display_name: "nemesis"
+    name: "nemesis"
 }
 
 item {
     id: 116
-    display_name: "no_mither"
+    name: "no_mither"
 }
 
 item {
     id: 117
-    display_name: "no_one_escapes_death"
+    name: "no_one_escapes_death"
 }
 
 item {
     id: 118
-    display_name: "no_one_left_behind"
+    name: "no_one_left_behind"
 }
 
 item {
     id: 119
-    display_name: "no_way_out"
+    name: "no_way_out"
 }
 
 item {
     id: 120
-    display_name: "object_of_obsession"
+    name: "object_of_obsession"
 }
 
 item {
     id: 121
-    display_name: "off_the_record"
+    name: "off_the_record"
 }
 
 item {
     id: 122
-    display_name: "open_handed"
+    name: "open_handed"
 }
 
 item {
     id: 123
-    display_name: "oppression"
+    name: "oppression"
 }
 
 item {
     id: 124
-    display_name: "overcharge"
+    name: "overcharge"
 }
 
 item {
     id: 125
-    display_name: "overcome"
+    name: "overcome"
 }
 
 item {
     id: 126
-    display_name: "overwhelming_presence"
+    name: "overwhelming_presence"
 }
 
 item {
     id: 127
-    display_name: "pain_resonance"
+    name: "pain_resonance"
 }
 
 item {
     id: 128
-    display_name: "pharmacy"
+    name: "pharmacy"
 }
 
 item {
     id: 129
-    display_name: "play_with_your_food"
+    name: "play_with_your_food"
 }
 
 item {
     id: 130
-    display_name: "plunderers_instinct"
+    name: "plunderers_instinct"
 }
 
 item {
     id: 131
-    display_name: "poised"
+    name: "poised"
 }
 
 item {
     id: 132
-    display_name: "pop_goes_the_weasel"
+    name: "pop_goes_the_weasel"
 }
 
 item {
     id: 133
-    display_name: "power_struggle"
+    name: "power_struggle"
 }
 
 item {
     id: 134
-    display_name: "predator"
+    name: "predator"
 }
 
 item {
     id: 135
-    display_name: "premonition"
+    name: "premonition"
 }
 
 item {
     id: 136
-    display_name: "prove_thyself"
+    name: "prove_thyself"
 }
 
 item {
     id: 137
-    display_name: "quick_and_quiet"
+    name: "quick_and_quiet"
 }
 
 item {
     id: 138
-    display_name: "rancor"
+    name: "rancor"
 }
 
 item {
     id: 139
-    display_name: "red_herring"
+    name: "red_herring"
 }
 
 item {
     id: 140
-    display_name: "remember_me"
+    name: "remember_me"
 }
 
 item {
     id: 141
-    display_name: "renewal"
+    name: "renewal"
 }
 
 item {
     id: 142
-    display_name: "repressed_alliance"
+    name: "repressed_alliance"
 }
 
 item {
     id: 143
-    display_name: "resilience"
+    name: "resilience"
 }
 
 item {
     id: 144
-    display_name: "resurgence"
+    name: "resurgence"
 }
 
 item {
     id: 145
-    display_name: "rookie_spirit"
+    name: "rookie_spirit"
 }
 
 item {
     id: 146
-    display_name: "saboteur"
+    name: "saboteur"
 }
 
 item {
     id: 147
-    display_name: "save_the_best_for_last"
+    name: "save_the_best_for_last"
 }
 
 item {
     id: 148
-    display_name: "scourage_hook:pain_resonance"
+    name: "scourage_hook:pain_resonance"
 }
 
 item {
     id: 149
-    display_name: "self_aware"
+    name: "self_aware"
 }
 
 item {
     id: 150
-    display_name: "self_care"
+    name: "self_care"
 }
 
 item {
     id: 151
-    display_name: "self_healing"
+    name: "self_healing"
 }
 
 item {
     id: 152
-    display_name: "self_preservation"
+    name: "self_preservation"
 }
 
 item {
     id: 153
-    display_name: "shadowborn"
+    name: "shadowborn"
 }
 
 item {
     id: 154
-    display_name: "situational_awareness"
+    name: "situational_awareness"
 }
 
 item {
     id: 155
-    display_name: "slippery_meat"
+    name: "slippery_meat"
 }
 
 item {
     id: 156
-    display_name: "sloppy_butcher"
+    name: "sloppy_butcher"
 }
 
 item {
     id: 157
-    display_name: "small_game"
+    name: "small_game"
 }
 
 item {
     id: 158
-    display_name: "smash_hit"
+    name: "smash_hit"
 }
 
 item {
     id: 159
-    display_name: "sole_survivor"
+    name: "sole_survivor"
 }
 
 item {
     id: 160
-    display_name: "solidarity"
+    name: "solidarity"
 }
 
 item {
     id: 161
-    display_name: "soul_guard"
+    name: "soul_guard"
 }
 
 item {
     id: 162
-    display_name: "spies_from_the_shadow"
+    name: "spies_from_the_shadow"
 }
 
 item {
     id: 163
-    display_name: "spine_chill"
+    name: "spine_chill"
 }
 
 item {
     id: 164
-    display_name: "spirit_fury"
+    name: "spirit_fury"
 }
 
 item {
     id: 165
-    display_name: "sprint_burst"
+    name: "sprint_burst"
 }
 
 item {
     id: 166
-    display_name: "stake_out"
+    name: "stake_out"
 }
 
 item {
     id: 167
-    display_name: "starstruck"
+    name: "starstruck"
 }
 
 item {
     id: 168
-    display_name: "streetwise"
+    name: "streetwise"
 }
 
 item {
     id: 169
-    display_name: "stridor"
+    name: "stridor"
 }
 
 item {
     id: 170
-    display_name: "surveillance"
+    name: "surveillance"
 }
 
 item {
     id: 171
-    display_name: "technician"
+    name: "technician"
 }
 
 item {
     id: 172
-    display_name: "tenacity"
+    name: "tenacity"
 }
 
 item {
     id: 173
-    display_name: "territorial_imperative"
+    name: "territorial_imperative"
 }
 
 item {
     id: 174
-    display_name: "thanatophobia"
+    name: "thanatophobia"
 }
 
 item {
     id: 175
-    display_name: "this_is_not_happening"
+    name: "this_is_not_happening"
 }
 
 item {
     id: 176
-    display_name: "thrilling_tremors"
+    name: "thrilling_tremors"
 }
 
 item {
     id: 177
-    display_name: "tinkerer"
+    name: "tinkerer"
 }
 
 item {
     id: 178
-    display_name: "trail_of_torment"
+    name: "trail_of_torment"
 }
 
 item {
     id: 179
-    display_name: "unbreakable"
+    name: "unbreakable"
 }
 
 item {
     id: 180
-    display_name: "unnerving_presence"
+    name: "unnerving_presence"
 }
 
 item {
     id: 181
-    display_name: "unrelenting"
+    name: "unrelenting"
 }
 
 item {
     id: 182
-    display_name: "up_the_ante"
+    name: "up_the_ante"
 }
 
 item {
     id: 183
-    display_name: "urban_evasion"
+    name: "urban_evasion"
 }
 
 item {
     id: 184
-    display_name: "vigil"
+    name: "vigil"
 }
 
 item {
     id: 185
-    display_name: "visionary"
+    name: "visionary"
 }
 
 item {
     id: 186
-    display_name: "wake_up"
+    name: "wake_up"
 }
 
 item {
     id: 187
-    display_name: "well_make_it"
+    name: "well_make_it"
 }
 
 item {
     id: 188
-    display_name: "were_gonna_live_forever"
+    name: "were_gonna_live_forever"
 }
 
 item {
     id: 189
-    display_name: "whispers"
+    name: "whispers"
 }
 
 item {
     id: 190
-    display_name: "windows_of_opportunity"
+    name: "windows_of_opportunity"
 }
 
 item {
     id: 191
-    display_name: "zanshin_tactics"
+    name: "zanshin_tactics"
 }
-
