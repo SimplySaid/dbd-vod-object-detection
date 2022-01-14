@@ -204,7 +204,7 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>pain_resonance</name>
+		<name>scourage_hook:pain_resonance</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
