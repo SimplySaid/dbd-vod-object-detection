@@ -14,6 +14,7 @@ paths = {
     'ANNOTATION_PATH': os.path.join('workspace', 'training', 'annotations'),
     'IMAGE_PATH': os.path.join('workspace', 'training', 'images'),
     'TRAIN_IMAGE_PATH': os.path.join('workspace', 'training', 'images', 'train'),
+    'TEST_IMAGE_PATH': os.path.join('workspace', 'training', 'images', 'test'),
     'MODEL_PATH': os.path.join('workspace', 'training', 'models'),
     'PRETRAINED_MODEL_PATH': os.path.join('workspace', 'training', 'pre-trained-models'),
     'CHECKPOINT_PATH': os.path.join('workspace','training', 'models',CUSTOM_MODEL_NAME), 

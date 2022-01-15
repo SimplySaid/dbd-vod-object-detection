@@ -30,6 +30,36 @@ from object_detection.utils import dataset_util, label_map_util
 from collections import namedtuple
 
 # Initiate argument parser
+parser = argparse.ArgumentParser(
+    description="Sample TensorFlow XML-to-TFRecord converter")
+parser.add_argument("-x",
+                    "--xml_dir",
+                    help="Path to the folder where the input .xml files are stored.",
+                    type=str)
+parser.add_argument("-l",
+                    "--labels_path",
+                    help="Path to the labels (.pbtxt) file.", type=str)
+parser.add_argument("-o",
+                    "--output_path",
+                    help="Path of output TFRecord (.record) file.", type=str)
+parser.add_argument("-i",
+                    "--image_dir",
+                    help="Path to the folder where the input image files are stored. "
+                         "Defaults to the same directory as XML_DIR.",
+                    type=str, default=None)
+parser.add_argument("-c",
+                    "--csv_path",
+                    help="Path of output .csv file. If none provided, then no file will be "
+                         "written.",
+                    type=str, default=None)
+
+args = parser.parse_args()
+
+if args.image_dir is None:
+    args.image_dir = args.xml_dir
+
+label_map = label_map_util.load_labelmap(args.labels_path)
+label_map_dict = label_map_util.get_label_map_dict(label_map)
 
 
 def xml_to_csv(path):
@@ -72,7 +102,6 @@ def xml_to_csv(path):
 
 
 def class_text_to_int(row_label):
-    print(row_label)
     return label_map_dict[row_label]
 
 
@@ -140,34 +169,4 @@ def main(_):
 
 
 if __name__ == '__main__':
-    parser = argparse.ArgumentParser(
-    description="Sample TensorFlow XML-to-TFRecord converter")
-    parser.add_argument("-x",
-                        "--xml_dir",
-                        help="Path to the folder where the input .xml files are stored.",
-                        type=str)
-    parser.add_argument("-l",
-                        "--labels_path",
-                        help="Path to the labels (.pbtxt) file.", type=str)
-    parser.add_argument("-o",
-                        "--output_path",
-                        help="Path of output TFRecord (.record) file.", type=str)
-    parser.add_argument("-i",
-                        "--image_dir",
-                        help="Path to the folder where the input image files are stored. "
-                            "Defaults to the same directory as XML_DIR.",
-                        type=str, default=None)
-    parser.add_argument("-c",
-                        "--csv_path",
-                        help="Path of output .csv file. If none provided, then no file will be "
-                            "written.",
-                        type=str, default=None)
-
-    args = parser.parse_args()
-
-    if args.image_dir is None:
-        args.image_dir = args.xml_dir
-
-    label_map_dict = label_map_util.get_label_map_dict(args.labels_path)
-
     tf.app.run()
