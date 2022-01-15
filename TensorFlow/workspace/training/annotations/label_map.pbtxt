@@ -125,830 +125,856 @@ item {
 
 item {
     id: 26
-    name: "borrowed_time"
+    name: "boon:shadowstep"
 }
 
 item {
     id: 27
-    name: "botany_knowledge"
+    name: "borrowed_time"
 }
 
 item {
     id: 28
-    name: "breakdown"
+    name: "botany_knowledge"
 }
 
 item {
     id: 29
-    name: "breakout"
+    name: "breakdown"
 }
 
 item {
     id: 30
-    name: "brutal_strength"
+    name: "breakout"
 }
 
 item {
     id: 31
-    name: "buckle_up"
+    name: "brutal_strength"
 }
 
 item {
     id: 32
-    name: "built_to_last"
+    name: "buckle_up"
 }
 
 item {
     id: 33
-    name: "calm_spirit"
+    name: "built_to_last"
 }
 
 item {
     id: 34
-    name: "circle_of_healing"
+    name: "calm_spirit"
 }
 
 item {
     id: 35
-    name: "clairvoyance"
+    name: "circle_of_healing"
 }
 
 item {
     id: 36
-    name: "claustrophobia"
+    name: "clairvoyance"
 }
 
 item {
     id: 37
-    name: "corrective_action"
+    name: "claustrophobia"
 }
 
 item {
     id: 38
-    name: "corrupt_intervention"
+    name: "corrective_action"
 }
 
 item {
     id: 39
-    name: "coulrophobia"
+    name: "corrupt_intervention"
 }
 
 item {
     id: 40
-    name: "counterforce"
+    name: "coulrophobia"
 }
 
 item {
     id: 41
-    name: "coup_de_grace"
+    name: "counterforce"
 }
 
 item {
     id: 42
-    name: "dance_with_me"
+    name: "coup_de_grace"
 }
 
 item {
     id: 43
-    name: "dark_devotion"
+    name: "couterforce"
 }
 
 item {
     id: 44
-    name: "dark_sense"
+    name: "dance_with_me"
 }
 
 item {
     id: 45
-    name: "dead_hard"
+    name: "dark_devotion"
 }
 
 item {
     id: 46
-    name: "dead_man_switch"
+    name: "dark_sense"
 }
 
 item {
     id: 47
-    name: "deathbound"
+    name: "dead_hard"
 }
 
 item {
     id: 48
-    name: "deception"
+    name: "dead_man_switch"
 }
 
 item {
     id: 49
-    name: "decisive_strike"
+    name: "deadlock"
 }
 
 item {
     id: 50
-    name: "deerstalker"
+    name: "deathbound"
 }
 
 item {
     id: 51
-    name: "deja_vu"
+    name: "deception"
 }
 
 item {
     id: 52
-    name: "deliverance"
+    name: "decisive_strike"
 }
 
 item {
     id: 53
-    name: "desperate_measures"
+    name: "deerstalker"
 }
 
 item {
     id: 54
-    name: "detectives_hunch"
+    name: "deja_vu"
 }
 
 item {
     id: 55
-    name: "discordance"
+    name: "deliverance"
 }
 
 item {
     id: 56
-    name: "distortion"
+    name: "desperate_measures"
 }
 
 item {
     id: 57
-    name: "distressing"
+    name: "detectives_hunch"
 }
 
 item {
     id: 58
-    name: "diversion"
+    name: "discordance"
 }
 
 item {
     id: 59
-    name: "dragons_grip"
+    name: "distortion"
 }
 
 item {
     id: 60
-    name: "dying_light"
+    name: "distressing"
 }
 
 item {
     id: 61
-    name: "empathy"
+    name: "diversion"
 }
 
 item {
     id: 62
-    name: "enduring"
+    name: "dragons_grip"
 }
 
 item {
     id: 63
-    name: "eruption"
+    name: "dying_light"
 }
 
 item {
     id: 64
-    name: "fast_track"
+    name: "empathy"
 }
 
 item {
     id: 65
-    name: "fearmonger"
+    name: "enduring"
 }
 
 item {
     id: 66
-    name: "fire_up"
+    name: "eruption"
 }
 
 item {
     id: 67
-    name: "flashbang"
+    name: "fast_track"
 }
 
 item {
     id: 68
-    name: "flip_flop"
+    name: "fearmonger"
 }
 
 item {
     id: 69
-    name: "for_the_people"
+    name: "fire_up"
 }
 
 item {
     id: 70
-    name: "forced_penance"
+    name: "flashbang"
 }
 
 item {
     id: 71
-    name: "franklins_demise"
+    name: "flip_flop"
 }
 
 item {
     id: 72
-    name: "furtive_chase"
+    name: "for_the_people"
 }
 
 item {
     id: 73
-    name: "gearhead"
+    name: "forced_penance"
 }
 
 item {
     id: 74
-    name: "grim_embrace"
+    name: "franklins_demise"
 }
 
 item {
     id: 75
-    name: "guardian"
+    name: "furtive_chase"
 }
 
 item {
     id: 76
-    name: "hangmans_trick"
+    name: "gearhead"
 }
 
 item {
     id: 77
-    name: "head_on"
+    name: "grim_embrace"
 }
 
 item {
     id: 78
-    name: "hex:blood_favor"
+    name: "guardian"
 }
 
 item {
     id: 79
-    name: "hex:crowd_control"
+    name: "hangmans_trick"
 }
 
 item {
     id: 80
-    name: "hex:devour_hope"
+    name: "head_on"
 }
 
 item {
     id: 81
-    name: "hex:haunted_grounds"
+    name: "hex:blood_favor"
 }
 
 item {
     id: 82
-    name: "hex:huntress_lullaby"
+    name: "hex:crowd_control"
 }
 
 item {
     id: 83
-    name: "hex:pentimento"
+    name: "hex:devour_hope"
 }
 
 item {
     id: 84
-    name: "hex:retribution"
+    name: "hex:haunted_grounds"
 }
 
 item {
     id: 85
-    name: "hex:ruin"
+    name: "hex:huntress_lullaby"
 }
 
 item {
     id: 86
-    name: "hex:third_seal"
+    name: "hex:pentimento"
 }
 
 item {
     id: 87
-    name: "hex:thrill_of_the_hunt"
+    name: "hex:retribution"
 }
 
 item {
     id: 88
-    name: "hex:undying"
+    name: "hex:ruin"
 }
 
 item {
     id: 89
-    name: "hoarder"
+    name: "hex:third_seal"
 }
 
 item {
     id: 90
-    name: "hope"
+    name: "hex:thrill_of_the_hunt"
 }
 
 item {
     id: 91
-    name: "hysteria"
+    name: "hex:undying"
 }
 
 item {
     id: 92
-    name: "im_all_ears"
+    name: "hoarder"
 }
 
 item {
     id: 93
-    name: "infectious_fright"
+    name: "hope"
 }
 
 item {
     id: 94
-    name: "inner_healing"
+    name: "hysteria"
 }
 
 item {
     id: 95
-    name: "insidious"
+    name: "im_all_ears"
 }
 
 item {
     id: 96
-    name: "iron_grasp"
+    name: "infectious_fright"
 }
 
 item {
     id: 97
-    name: "iron_maiden"
+    name: "inner_healing"
 }
 
 item {
     id: 98
-    name: "iron_will"
+    name: "insidious"
 }
 
 item {
     id: 99
-    name: "jolt"
+    name: "iron_grasp"
 }
 
 item {
     id: 100
-    name: "kindred"
+    name: "iron_maiden"
 }
 
 item {
     id: 101
-    name: "kinship"
+    name: "iron_will"
 }
 
 item {
     id: 102
-    name: "knockout"
+    name: "jolt"
 }
 
 item {
     id: 103
-    name: "leader"
+    name: "kindred"
 }
 
 item {
     id: 104
-    name: "left_behind"
+    name: "kinship"
 }
 
 item {
     id: 105
-    name: "lethal_pursuer"
+    name: "knockout"
 }
 
 item {
     id: 106
-    name: "lightborn"
+    name: "leader"
 }
 
 item {
     id: 107
-    name: "lightweight"
+    name: "left_behind"
 }
 
 item {
     id: 108
-    name: "lithe"
+    name: "lethal_pursuer"
 }
 
 item {
     id: 109
-    name: "lucky_break"
+    name: "lightborn"
 }
 
 item {
     id: 110
-    name: "mad_grit"
+    name: "lightweight"
 }
 
 item {
     id: 111
-    name: "make_your_choice"
+    name: "lithe"
 }
 
 item {
     id: 112
-    name: "mettle_of_man"
+    name: "lucky_break"
 }
 
 item {
     id: 113
-    name: "monitor_and_abuse"
+    name: "mad_grit"
 }
 
 item {
     id: 114
-    name: "monstrous_shrine"
+    name: "make_your_choice"
 }
 
 item {
     id: 115
-    name: "nemesis"
+    name: "mettle_of_man"
 }
 
 item {
     id: 116
-    name: "no_mither"
+    name: "monitor_and_abuse"
 }
 
 item {
     id: 117
-    name: "no_one_escapes_death"
+    name: "monstrous_shrine"
 }
 
 item {
     id: 118
-    name: "no_one_left_behind"
+    name: "nemesis"
 }
 
 item {
     id: 119
-    name: "no_way_out"
+    name: "no_mither"
 }
 
 item {
     id: 120
-    name: "object_of_obsession"
+    name: "no_one_escapes_death"
 }
 
 item {
     id: 121
-    name: "off_the_record"
+    name: "no_one_left_behind"
 }
 
 item {
     id: 122
-    name: "open_handed"
+    name: "no_way_out"
 }
 
 item {
     id: 123
-    name: "oppression"
+    name: "object_of_obsession"
 }
 
 item {
     id: 124
-    name: "overcharge"
+    name: "off_the_record"
 }
 
 item {
     id: 125
-    name: "overcome"
+    name: "open_handed"
 }
 
 item {
     id: 126
-    name: "overwhelming_presence"
+    name: "oppression"
 }
 
 item {
     id: 127
-    name: "pain_resonance"
+    name: "overcharge"
 }
 
 item {
     id: 128
-    name: "pharmacy"
+    name: "overcome"
 }
 
 item {
     id: 129
-    name: "play_with_your_food"
+    name: "overwheling_presence"
 }
 
 item {
     id: 130
-    name: "plunderers_instinct"
+    name: "overwhelming_presence"
 }
 
 item {
     id: 131
-    name: "poised"
+    name: "pharmacy"
 }
 
 item {
     id: 132
-    name: "pop_goes_the_weasel"
+    name: "play_with_your_food"
 }
 
 item {
     id: 133
-    name: "power_struggle"
+    name: "plunderers_instinct"
 }
 
 item {
     id: 134
-    name: "predator"
+    name: "poised"
 }
 
 item {
     id: 135
-    name: "premonition"
+    name: "pop_goes_the_weasel"
 }
 
 item {
     id: 136
-    name: "prove_thyself"
+    name: "power_struggle"
 }
 
 item {
     id: 137
-    name: "quick_and_quiet"
+    name: "predator"
 }
 
 item {
     id: 138
-    name: "rancor"
+    name: "premonition"
 }
 
 item {
     id: 139
-    name: "red_herring"
+    name: "prove_thyself"
 }
 
 item {
     id: 140
-    name: "remember_me"
+    name: "quick_and_quiet"
 }
 
 item {
     id: 141
-    name: "renewal"
+    name: "rancor"
 }
 
 item {
     id: 142
-    name: "repressed_alliance"
+    name: "red_herring"
 }
 
 item {
     id: 143
-    name: "resilience"
+    name: "remember_me"
 }
 
 item {
     id: 144
-    name: "resurgence"
+    name: "renewal"
 }
 
 item {
     id: 145
-    name: "rookie_spirit"
+    name: "repressed_alliance"
 }
 
 item {
     id: 146
-    name: "saboteur"
+    name: "resilience"
 }
 
 item {
     id: 147
-    name: "save_the_best_for_last"
+    name: "resurgence"
 }
 
 item {
     id: 148
-    name: "scourage_hook:pain_resonance"
+    name: "rookie_spirit"
 }
 
 item {
     id: 149
-    name: "self_aware"
+    name: "saboteur"
 }
 
 item {
     id: 150
-    name: "self_care"
+    name: "sabotuer"
 }
 
 item {
     id: 151
-    name: "self_healing"
+    name: "save_the_best_for_last"
 }
 
 item {
     id: 152
-    name: "self_preservation"
+    name: "scourage_hook:gift_of_pain"
 }
 
 item {
     id: 153
-    name: "shadowborn"
+    name: "scourage_hook:pain_resonance"
 }
 
 item {
     id: 154
-    name: "situational_awareness"
+    name: "self_aware"
 }
 
 item {
     id: 155
-    name: "slippery_meat"
+    name: "self_care"
 }
 
 item {
     id: 156
-    name: "sloppy_butcher"
+    name: "self_healing"
 }
 
 item {
     id: 157
-    name: "small_game"
+    name: "self_preservation"
 }
 
 item {
     id: 158
-    name: "smash_hit"
+    name: "shadowborn"
 }
 
 item {
     id: 159
-    name: "sole_survivor"
+    name: "situational_awareness"
 }
 
 item {
     id: 160
-    name: "solidarity"
+    name: "slippery_meat"
 }
 
 item {
     id: 161
-    name: "soul_guard"
+    name: "sloppy_butcher"
 }
 
 item {
     id: 162
-    name: "spies_from_the_shadow"
+    name: "small_game"
 }
 
 item {
     id: 163
-    name: "spine_chill"
+    name: "smash_hit"
 }
 
 item {
     id: 164
-    name: "spirit_fury"
+    name: "sole_survivor"
 }
 
 item {
     id: 165
-    name: "sprint_burst"
+    name: "solidarity"
 }
 
 item {
     id: 166
-    name: "stake_out"
+    name: "soul_guard"
 }
 
 item {
     id: 167
-    name: "starstruck"
+    name: "spies_from_the_shadow"
 }
 
 item {
     id: 168
-    name: "streetwise"
+    name: "spine_chill"
 }
 
 item {
     id: 169
-    name: "stridor"
+    name: "spirit_fury"
 }
 
 item {
     id: 170
-    name: "surveillance"
+    name: "sprint_burst"
 }
 
 item {
     id: 171
-    name: "technician"
+    name: "stake_out"
 }
 
 item {
     id: 172
-    name: "tenacity"
+    name: "starstruck"
 }
 
 item {
     id: 173
-    name: "territorial_imperative"
+    name: "streetwise"
 }
 
 item {
     id: 174
-    name: "thanatophobia"
+    name: "stridor"
 }
 
 item {
     id: 175
-    name: "this_is_not_happening"
+    name: "surveillance"
 }
 
 item {
     id: 176
-    name: "thrilling_tremors"
+    name: "technician"
 }
 
 item {
     id: 177
-    name: "tinkerer"
+    name: "tenacity"
 }
 
 item {
     id: 178
-    name: "trail_of_torment"
+    name: "territorial_imperative"
 }
 
 item {
     id: 179
-    name: "unbreakable"
+    name: "thanatophobia"
 }
 
 item {
     id: 180
-    name: "unnerving_presence"
+    name: "this_is_not_happening"
 }
 
 item {
     id: 181
-    name: "unrelenting"
+    name: "thrilling_tremors"
 }
 
 item {
     id: 182
-    name: "up_the_ante"
+    name: "tinkerer"
 }
 
 item {
     id: 183
-    name: "urban_evasion"
+    name: "trail_of_torment"
 }
 
 item {
     id: 184
-    name: "vigil"
+    name: "unbreakable"
 }
 
 item {
     id: 185
-    name: "visionary"
+    name: "unnerving_presence"
 }
 
 item {
     id: 186
-    name: "wake_up"
+    name: "unrelenting"
 }
 
 item {
     id: 187
-    name: "well_make_it"
+    name: "up_the_ante"
 }
 
 item {
     id: 188
-    name: "were_gonna_live_forever"
+    name: "urban_evasion"
 }
 
 item {
     id: 189
-    name: "whispers"
+    name: "vigil"
 }
 
 item {
     id: 190
-    name: "windows_of_opportunity"
+    name: "visionary"
 }
 
 item {
     id: 191
+    name: "wake_up"
+}
+
+item {
+    id: 192
+    name: "well_make_it"
+}
+
+item {
+    id: 193
+    name: "were_gonna_live_forever"
+}
+
+item {
+    id: 194
+    name: "whispers"
+}
+
+item {
+    id: 195
+    name: "windows_of_opportunity"
+}
+
+item {
+    id: 196
     name: "zanshin_tactics"
 }
+

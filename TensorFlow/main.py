@@ -1,46 +1,20 @@
-import cv2
 import os
+import sys
 
-#imread
-#imshow
-#waitkey
-#VideoCapture
+#Load Config
+import config
 
-#dirname = os.path.dirname(__file__)
+#Import Script Modules
+from scripts.preprocessing import xml_to_csv
+from scripts.preprocessing import generate_pbtxt
+from scripts.preprocessing import generate_tf_record
 
-BASE_W, BASE_H = 2560, 1440
-TEMPLATE_SCALED_W, TEMPLATE_SCALED_H = 0, 0
+#Generate CSV File
+xml_to_csv.xml_to_csv(config.paths['TRAIN_IMAGE_PATH'], config.files['CSV_FILE'])
 
-#Load Images
-base_img = cv2.imread('input/base.png', 0)
-#template = cv2.imread('input/icons/iconPerks_DeadHard.jpg', 0)
-template = cv2.imread('input/icons/ds_test.png', 0)
+#Generate pbtxt
+generate_pbtxt.pbtxt_from_csv(config.files['CSV_FILE'], config.files['LABELMAP'])
 
-#Resize Template
-template = cv2.resize(template, (0,0), fx=0.90, fy=0.90) 
+#Generate tf record
 
-h, w = template.shape
 
-# template = cv2.cvtColor(template, cv2.COLOR_BGR2RGB)
-
-# cv2.imshow('base', base_img)
-# cv2.imshow('template', template)
-
-methods = [cv2.TM_CCOEFF, cv2.TM_CCOEFF_NORMED, cv2.TM_CCORR,
-            cv2.TM_CCORR_NORMED, cv2.TM_SQDIFF, cv2.TM_SQDIFF_NORMED]
-
-for method in methods:
-    img2 = base_img.copy()
-
-    result = cv2.matchTemplate(img2, template, method)
-    min_val, max_val, min_loc, max_loc = cv2.minMaxLoc(result)
-    if method in [cv2.TM_SQDIFF, cv2.TM_SQDIFF_NORMED]:
-        location = min_loc
-    else:
-        location = max_loc
-
-    bottom_right = (location[0] + w, location[1] + h)    
-    cv2.rectangle(img2, location, bottom_right, 255, 5)
-    cv2.imshow('Match', img2)
-    cv2.waitKey(0)
-    cv2.destroyAllWindows()
